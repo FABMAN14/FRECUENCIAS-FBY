@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "TALLER 2"
+subtitle: "TALLER 2A"
 author: 
   - name: Fabian Albeiro Manrique Rubio<br>Brenda Carolina Tique<br>Yamileth Arguello
     affiliation: "Escuela Superior de Administracion Publica"
